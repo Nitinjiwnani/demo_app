@@ -4,7 +4,7 @@ import 'package:demo_app/screens/show_dialog_function.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' as rootBundle;
 
-import '../UserDataModel.dart';
+import '../Model/UserDataModel.dart';
 
 var user_data = FutureBuilder(
   future: ReadJsonData(),
