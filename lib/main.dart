@@ -160,8 +160,8 @@ showDialogFunc(context, name, id, atype) {
       });
 }
 //child: new Container(
-                                              margin: const EdgeInsets.all(0.0),
-                                              child: new Icon(
-                                                Icons.login
-                                              ),
-                                            ),
+                                            //   margin: const EdgeInsets.all(0.0),
+                                            //   child: new Icon(
+                                            //     Icons.login
+                                            //   ),
+                                            // ),
